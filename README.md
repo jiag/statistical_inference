@@ -1,0 +1,1 @@
+This repository contains the two projects for the Statistical Inference course. In the first project, we investigate the exponential distribution then perform an experiment about the central limit theorem. In the second project, we analyze the tooth growth data and use hypothesis test to find the important factor that related to tooth growth.
